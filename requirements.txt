@@ -1,0 +1,14 @@
+# requirements.txt
+python-dotenv
+telethon
+psycopg2-binary
+dbt-postgres
+fastapi
+uvicorn
+pydantic
+dagster
+dagster-postgres
+dagster-webserver
+ultralytics
+pandas
+python-multipart

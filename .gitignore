@@ -1,0 +1,15 @@
+# .gitignore
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.sqlite3
+*.log
+data/
+dbt/target/
+dbt/dbt_packages/
