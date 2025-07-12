@@ -83,7 +83,6 @@ GET /api/analytics/top-products?limit=5
 4. Push to branch (git push origin feat/amazing-feature)
 
 5. Open a Pull Request
-## ✉️ Contact
-Name: Shegaw Adugna  
-Email: shegamihret@gmail.com  
-GitHub: https://github.com/Shegaw-21hub/telegram_data_pipeline
+## ✉️ Reach Me
+Name: Waggari Misganu 
+Email: wagarimisganu12@gmail.com 
