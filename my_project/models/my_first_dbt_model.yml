@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: my_first_dbt_model
+    description: "This model transforms raw data into a structured format."
+    columns:
+      
+      - name: "ID"
+        tests:
+          - not_null  # Ensure the column is not null
